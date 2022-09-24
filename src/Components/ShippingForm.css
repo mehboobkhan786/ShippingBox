@@ -1,0 +1,38 @@
+input{
+    width: 100px;
+    padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+
+}
+label{
+    color: blue;
+}
+button{
+    width: 90px;
+    color: black;
+    background-color: blue;
+}
+div{
+    background-color: aquamarine;
+    
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 4rem;
+}
+
+th,td{
+    border:1px solid #ddd;
+    padding: 8px;
+}
+th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: #fff;
+    background-color: #04aa6d;
+
+}
